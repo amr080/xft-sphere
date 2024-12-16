@@ -273,3 +273,47 @@ X
 Sphere Laboratories, Inc - CRN #7141668
 1209 Orange Street, Wilmington, DE 19801
 
+
+Company
+Sphere is the operating system for the digital economy, transforming cross-border payments into a fast, secure, and reliable experience. We focus on empowering businesses and individuals in underserved and emerging markets, removing obstacles to global commerce and fostering economic growth and inclusion.
+
+Sphere blends cutting-edge technology with thoughtfully crafted interfaces to create a digital payments platform that is both intuitive and efficient. By orchestrating between various financial service providers, we enable businesses to transform transactions into valuable connections, providing the tools to thrive in an increasingly interconnected global economy.
+
+What sets us apart is our relentless focus on scalability, precision, and adaptability. Built to evolve with the needs of global commerce, we don't just solving today’s challenges—we're creating the foundation for the future of payments on the internet.
+
+Investors
+We are backed by some of the most forward-thinking firms, angel investors,
+founders, and operators in fintech.
+
+Backed by:
+The Chernin Group (TCG)Jump Crypto
+Hudson River Trading (HRT)Big Brain HoldingsSolana VenturesSHVSteel DAORepublic Capital
+Anatoly Yakovenko
+Co-Founder, Solana
+
+Raj Gokal
+Co-Founder, Solana
+
+Jordan Sexton
+Creator, Solana Pay
+
+Robert Chen
+Co-Founder, OtterSec
+
+Abhay Kumar
+CEO, Helium Foundation
+
+Tristan Yver
+Co-Founder, Backpack
+
+Tim Wang
+Principal, Hudson River Trading
+
+Join the team
+We're hiring
+
+We're assembling a group of exceptional individuals, each bringing unique perspectives
+and diverse backgrounds to carve out this brave new world.
+
+
+
